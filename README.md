@@ -1,17 +1,16 @@
-Investigated the growing threat of cyberattacks targeting UK institutions, with a focus on real world incidents involving universities and the British Library.
+Investigated the rise in cyberattacks targeting UK public sector institutions, focusing on real-world incidents involving universities and the British Library. Analysed the ransomware group Rhysida and reconstructed their breach using the Cyber Kill Chain framework. Conducted detailed case studies to identify institutional vulnerabilities and proposed strategic countermeasures supported by breach timelines, access vectors, and risk posture analysis.
 
-Analysed the ransomware group Rhysida and reconstructed attack paths using the Cyber Kill Chain framework to understand breach progression.
+Key Areas Covered:
 
-Conducted in depth case studies on notable incidents and evaluated institutional vulnerabilities, leading to the development of targeted countermeasures.
+🔍 Analysis of cyberattacks on UK universities and national archives
 
-Recommendations were supported by contextual data and technical justification, including analysis of breach timelines, access vectors, and institutional readiness.
+🧠 Mapping ransomware tactics using the Cyber Kill Chain
 
+📈 Development of data-driven recommendations for institutional resilience
 
-Key areas covered
-• Analysis of real world cyberattacks on UK institutions
-• Mapping of ransomware tactics and attack paths
-• Application of the Cyber Kill Chain framework
-• Strategic cybersecurity recommendations
-• Focus on risk mitigation, education, and policy improvements
-Investigated the growing threat of cyberattacks targeting UK institutions, with a focus on real world incidents involving universities and the British Library. Analysed the ransomware group Rhysida and reconstructed attack paths using the Cyber Kill Chain framework to understand breach progression. Conducted in depth case studies on notable incidents and evaluated institutional vulnerabilities, leading to the development of targeted countermeasures. Recommendations were supported by contextual data and technical justification, including analysis of breach timelines, access vectors, and institutional readiness. Key areas covered • Analysis of real world cyberattacks on UK institutions • Mapping of ransomware tactics and attack paths • Application of the Cyber Kill Chain framework • Strategic cybersecurity recommendations • Focus on risk mitigation, education, and policy improvements
-Skills: Cyber Threat Analysis · Incidence Response · Network Security · Risk Mitigation
+🛡️ Emphasis on MFA, staff training, and network segmentation
+
+🗂️ Policy insights for risk mitigation, incident response, and education
+
+Skills: Cyber Threat Analysis · Incident Response · Network Security · Risk Mitigation
+
